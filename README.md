@@ -9,7 +9,7 @@ Stroke | Alzheimer's Disease \
 Machine Learning in Neuroscience 
 
 contact \
-patrik.bey@charite.de
+patrik.bey@bih-charite.de
 
 <!---
 PatrikBey/PatrikBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
