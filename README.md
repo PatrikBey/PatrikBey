@@ -1,15 +1,17 @@
-@PatrikBey \
-Computational neuroscientist \
-Berlin Institute of Health - Charité Universitätsmedizin Berlin \
-brain simulaction section | PI Prof. Dr. Petra Ritter 
+# @PatrikBey 
 
-Research Focus \
-Neuroimaging \
-Stroke | Alzheimer's Disease \
-Machine Learning in Neuroscience 
+### AI IN NEUROSCIENCE
 
-contact \
-patrik.bey@bih-charite.de
+| University College London |\
+| Queen's Square Institute of Neurology |\
+| High Dimensional Neurology | PI Prof. Dr. Parashkev Nachev |
+
+### Research Focus 
+| Neuroimaging 
+| Stroke | Neurodegeneration | 
+
+### contact 
+p.bey@ucl.ac.uk
 
 <!---
 PatrikBey/PatrikBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
