@@ -3,7 +3,7 @@
 ### AI IN NEUROSCIENCE
 
 | University College London |\
-| Queen's Square Institute of Neurology |\
+| Queen Square Institute of Neurology |\
 | High Dimensional Neurology | PI Prof. Dr. Parashkev Nachev |
 
 ### Research Focus 
