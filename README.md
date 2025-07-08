@@ -11,7 +11,7 @@
 | Stroke | Neurodegeneration | 
 
 ### contact 
-p.bey@ucl.ac.uk
+patrik.bey [at] ucl.ac.uk
 
 <!---
 PatrikBey/PatrikBey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
