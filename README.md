@@ -4,10 +4,11 @@
 
 | University College London |\
 | Queen Square Institute of Neurology |\
-| High Dimensional Neurology | PI Prof. Dr. Parashkev Nachev |
+| Translational Neurology and Stroke |\
+| PI Prof. Dr. Parashkev Nachev |
 
 ### Research Focus 
-| Neuroimaging 
+| Neuroimaging | AI in Neuroscience |\
 | Stroke | Neurodegeneration | 
 
 ### contact 
